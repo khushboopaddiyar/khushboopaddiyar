@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Khushboo Paddiyar
 ## I'm a Developer, Coder and Freelancer!
-- 📚 I’m currently learning Reactjs 🤣
+- 📚 I’m currently learning Reactjs 
 - 👉 I’m looking for new Awesome opportunities
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
